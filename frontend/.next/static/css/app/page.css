@@ -1,0 +1,64 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/atoms/Text/Text.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.Text_titulo1__SOQPM{
+    font-size: 36px;
+    line-height: 56px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.Text_titulo3__ausiN{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+}
+.Text_price__BeEpL{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/atoms/Button/Button.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
+.Button_button__x6lHc {
+    background-color: #FFFFFF;
+    border: none;
+    color: #4b03a3;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 16px;
+    cursor: pointer;
+    margin: 24px;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/molecules/Card/Card.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
+.Card_cardComponent__oTSBh{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    padding: 1em;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 16px;
+    background-color: aqua;
+}
+.Card_card__j9rsi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    border: 1px solid #460088;
+}
